@@ -1,5 +1,9 @@
 # RxBusDemo
 Rxbus事件交互
+
+更多内容，关注 微信公众号  代码GG之家
+
+
 源码地址：
 https://github.com/luxiaoming/RxBus
 目标：
